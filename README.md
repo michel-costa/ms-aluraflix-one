@@ -9,7 +9,7 @@ O desafio foi desenvolver do zero, a partir de um design no Figma, o projeto Alu
 !-- prettier-ignore -->
 | Michel Costa |   |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✨ Nome        | **Alura Nerd** - Challenge Alura |
+| ✨ Nome        | **Alura Flix** - Challenge Alura |
 | 🏷️ Tecnologias |HTML, CSS, JavaScript, React |
 
 <img src="/public/imagens/proj.png" alt="Descrição da imagem">
